@@ -14,5 +14,6 @@ UPDATES BELOW (in ascending chronological order):
 
 - Added first step file to test. Dimensions were slightly off so I will need to rework it. 
 
-- Added stl files for both right and left leg covers. I changed the tolerance to nominal for M3 screws because the 3D printed prototype was cracking after inserting components. 
-  Future files will be in stl format so you cna preview it directly in the git repository. I will be changing the previous files
+- Added custom stl files for both right and left leg covers (not pictured in my first 3D print). 
+  I changed the tolerance to nominal (+0.2mm) for M3 screws because the 3D printed prototype was cracking after inserting components. 
+  Future files will be in stl format so you can preview it directly in the git repository. I will be changing the previous files. 
