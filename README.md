@@ -13,3 +13,6 @@ UPDATES BELOW (in ascending chronological order):
 ![Quadruped_Frame_Assembled](https://github.com/user-attachments/assets/31a06d35-3dda-4e32-92d0-ba1e593fc390)
 
 - Added first step file to test. Dimensions were slightly off so I will need to rework it. 
+
+- Added stl files for both right and left leg covers. I changed the tolerance to nominal for M3 screws because the 3D printed prototype was cracking after inserting components. 
+  Future files will be in stl format so you cna preview it directly in the git repository. I will be changing the previous files
