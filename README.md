@@ -1,7 +1,7 @@
 # Quadruped_Project
-My attempt at building the NovaSM3 by Chris Locke. This is a recreation of Spot from Boston Dynamics. This repository contains step files that I created on my own along with progress pictures towards the build and code for arduino. This project is not yet complete. 
+My attempt at building the NovaSM3 by Chris Locke. This is a recreation of Spot from Boston Dynamics. This repository contains stl files that I created on my own along with progress pictures towards the build and code for arduino. This project is not yet complete. 
 
-To view uploaded step files: Save link and enter into ShareCad. These files are viewable on any platform that supports step files. I used Autodesk Fusion to model them. 
+To view uploaded stl files, simply click on each file for a preview of the 3D model. These files are available for download to be used for 3D printing. The step files are not currently available on this repository. Converting the stl files to a mesh in Autodesk Fusion will likely create too many faces to convert to a solid model and meshmixer will improperly adjust the tolerances. 
 
 See https://novaspotmicro.com/ for credit to the NovaSM3. 
 
@@ -16,4 +16,6 @@ UPDATES BELOW (in ascending chronological order):
 
 - Added custom stl files for both right and left leg covers (not pictured in my first 3D print). 
   I changed the tolerance to nominal (+0.2mm) for M3 screws because the 3D printed prototype was cracking after inserting components. 
-  Future files will be in stl format so you can preview it directly in the git repository. I will be changing the previous files. 
+  Future files will be in stl format so you can preview it directly in the git repository. I will be changing the previous files.
+
+- Uploaded new head cover file which is likely the most complicated component in the project. 
