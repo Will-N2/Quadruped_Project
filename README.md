@@ -19,3 +19,5 @@ UPDATES BELOW (in ascending chronological order):
   Future files will be in stl format so you can preview it directly in the git repository. I will be changing the previous files.
 
 - Uploaded new head cover file which is likely the most complicated component in the project. 
+
+- Created and uploaded both the front and rear base cover components. The rear is longer. Also moved all stl files into a folder.
