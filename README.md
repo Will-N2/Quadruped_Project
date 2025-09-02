@@ -21,3 +21,5 @@ UPDATES BELOW (in ascending chronological order):
 - Uploaded new head cover file which is likely the most complicated component in the project. 
 
 - Created and uploaded both the front and rear base cover components. The rear is longer. Also moved all stl files into a folder.
+
+- Created new folder for drawings of existing stl files. Uploaded drawings for right leg covers (invert for left leg) and the front bottom cover (increase the length on left side of drawing by 3mm for the rear bottom cover drawing). 
