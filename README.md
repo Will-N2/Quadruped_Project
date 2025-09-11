@@ -23,3 +23,5 @@ UPDATES BELOW (in ascending chronological order):
 - Created and uploaded both the front and rear base cover components. The rear is longer. Also moved all stl files into a folder.
 
 - Created new folder for drawings of existing stl files. Uploaded drawings for right leg covers (invert for left leg) and the front bottom cover (increase the length on left side of drawing by 3mm for the rear bottom cover drawing). 
+
+- Added new stl and drawing for the top rear cover yesterday 9/10/25. Simplified design of the previous model for better quality 3D printing. This will improve bed adhesion.
